@@ -1,0 +1,10 @@
+El fibonacci de 4 es: 3
+El fibonacci de 7 es: 13
+El fibonacci de 8 es: 21
+El fibonacci de 3 es: 2
+El fibonacci de 15 es: 610
+El fibonacci de 18 es: 2584
+El fibonacci de 12 es: 144
+El fibonacci de 20 es: 6765
+El fibonacci de 13 es: 233
+El fibonacci de 5 es: 5
